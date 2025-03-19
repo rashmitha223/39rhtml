@@ -14,7 +14,7 @@
 2.Palak Paneer
 3.Veg spring rolls
 </pre>
-<h3><i>Feedback<i><h3>
+<h3><i>Feedback<i></h3>
 <p> it’s helpful to be clear and specific. Here are some areas you might consider when sharing your thoughts:
 
 1. Food Quality:
